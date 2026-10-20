@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<style>
+.c{stroke-dasharray:420;stroke-dashoffset:420;animation:d 2.2s ease .4s forwards}
+.n{opacity:0;animation:f .6s ease 2.2s forwards}
+.b{transform-box:fill-box;transform-origin:center;animation:h 1.6s ease-in-out 2.8s 3}
+@keyframes d{to{stroke-dashoffset:0}}
+@keyframes f{to{opacity:1}}
+@keyframes h{0%,100%{transform:scale(1)}20%{transform:scale(1.18)}40%{transform:scale(.97)}}
+@media (prefers-reduced-motion:reduce){.c{animation:none;stroke-dashoffset:0}.n{animation:none;opacity:1}.b{animation:none}}
+</style>
+<rect width="1200" height="300" rx="24" fill="#ecebfb"/>
+<path d="M0 240 C220 210 420 268 640 250 C860 232 1010 206 1200 226 L1200 276 Q1200 300 1176 300 L24 300 Q0 300 0 276 Z" fill="#dfe0f6"/>
+<text x="64" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#1b1f2a">Hyeran Hwang</text>
+<text x="66" y="186" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#4f5768">Passive sensing for mental health</text>
+<g transform="translate(720 30) scale(1.15)">
+  <rect x="66" y="40" width="44" height="120" rx="6" fill="#3946a6" opacity=".12"/>
+  <line x1="20" y1="160" x2="330" y2="160" stroke="#3b3f4c" stroke-width="2" opacity=".3" stroke-linecap="round"/>
+  <path class="c" d="M20 138 C34 136 42 140 56 136 C70 132 74 70 88 62 C100 56 106 92 120 112 C134 132 150 134 184 136 C220 138 250 134 330 137" stroke="#3b3f4c" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <g class="n"><circle cx="88" cy="38" r="14" fill="#3946a6"/><path d="M81 38 l5 5 l9 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g class="n"><rect x="226" y="92" width="28" height="34" rx="4" fill="#fff" stroke="#3b3f4c" stroke-width="2"/><line x1="232" y1="103" x2="248" y2="103" stroke="#3b3f4c" stroke-width="2" stroke-linecap="round"/><line x1="232" y1="111" x2="244" y2="111" stroke="#3b3f4c" stroke-width="2" stroke-linecap="round"/><circle cx="240" cy="137" r="5" fill="#c23a5c"/></g>
+  <path class="b" d="M300 70 C288 60 284 46 294 42 C299 40 300 44 300 46 C300 44 301 40 306 42 C316 46 312 60 300 70 Z" fill="#c23a5c"/>
+</g>
+</svg>

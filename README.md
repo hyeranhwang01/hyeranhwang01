@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="banner.svg" width="100%" alt="Hyeran Hwang. Passive sensing for mental health">
 
-<!--
-**hyeranhwang01/hyeranhwang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I measure anxiety, panic and depression from wearables and phones, without asking people to report them.
 
-Here are some ideas to get you started:
+<img src="story.svg" width="100%" alt="A watch and a phone go everywhere with us. They pick up heartbeat, sleep, steps and voice. We notice anxiety rising before anyone writes it down. And an AI companion can help, right in that moment.">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Publications
+
+- **Panic Attack Prediction for Patients With Panic Disorder via Machine Learning and Wearable Electrocardiography Monitoring.** H. Oh, …, H. Hwang, …, H. Piao. *JMIR*, 2025
+- **전술 경보 의사결정 안정성에 대한 다중 관측 에이전트 기반 점수 통합 분석.** S. Lee, H. Hwang, C. Hwang, A. Kim. *JKIICE*, 2026
+
+### Find me
+
+[Google Scholar](https://scholar.google.com/citations?user=tHFnujcAAAAJ) · [ORCID](https://orcid.org/0009-0008-5020-6687) · hhr8779@gmail.com
